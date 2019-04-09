@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     var randomDiceIndex: Int = 0
     var score: Int = 0
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
