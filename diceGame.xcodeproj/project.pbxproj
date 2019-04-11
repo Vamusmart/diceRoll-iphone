@@ -14,6 +14,7 @@
 		C3197D94225CD7F9006DC03D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3197D92225CD7F9006DC03D /* LaunchScreen.storyboard */; };
 		C3197D9F225CD7F9006DC03D /* diceGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3197D9E225CD7F9006DC03D /* diceGameTests.swift */; };
 		C3197DAA225CD7F9006DC03D /* diceGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3197DA9225CD7F9006DC03D /* diceGameUITests.swift */; };
+		C3197DB8225E41AB006DC03D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3197DB7225E41AB006DC03D /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C3197DA5225CD7F9006DC03D /* diceGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = diceGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3197DA9225CD7F9006DC03D /* diceGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diceGameUITests.swift; sourceTree = "<group>"; };
 		C3197DAB225CD7F9006DC03D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3197DB7225E41AB006DC03D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				C3197D89225CD7F9006DC03D /* AppDelegate.swift */,
 				C3197D8B225CD7F9006DC03D /* ViewController.swift */,
+				C3197DB7225E41AB006DC03D /* ViewController2.swift */,
 				C3197D8D225CD7F9006DC03D /* Main.storyboard */,
 				C3197D90225CD7F9006DC03D /* Assets.xcassets */,
 				C3197D92225CD7F9006DC03D /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				C3197D8C225CD7F9006DC03D /* ViewController.swift in Sources */,
 				C3197D8A225CD7F9006DC03D /* AppDelegate.swift in Sources */,
+				C3197DB8225E41AB006DC03D /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
